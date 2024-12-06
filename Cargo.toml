@@ -1,8 +1,0 @@
-[package]
-name = "DS210Project2"
-version = "0.1.0"
-edition = "2021"
-
-[dependencies]
-petgraph = "0.6"
-plotters = "0.3"
